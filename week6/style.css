@@ -1,0 +1,134 @@
+.header {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    height: 110px;
+    align-items: center;
+    justify-items: center;
+}
+
+.main {
+    display: grid;
+    grid-auto-flow: row;
+}
+.girl {
+    position: absolute;
+    width: 361px;
+    height: 425px;
+    left: 922px;
+    top: 173px;
+}
+
+.boy {
+    position: absolute;
+    width: 586px;
+    height: 480px;
+    left: 1204px;
+    top: 110px;
+}
+
+.lager {
+    width: 1033px;
+    height: 480px;
+    background-color: #00093C;
+    color: white;
+    }
+
+.Lager_1 {
+    position: absolute;
+    width: 617px;
+    height: 102px;
+    left: 370px;
+    top: 148px;
+    }
+    
+.Lager_5 {
+    position: absolute;
+    width: 516px;
+    height: 44px;
+    left: 370px;
+    top: 440px;
+}
+.Lager_2 {
+    position: absolute;
+    width: 148px;
+    height: 17px;
+    left: 369px;
+    top: 306px;
+}
+.Lager_3 {
+    position: absolute;
+    width: 104px;
+    height: 17px;
+    left: 578px;
+    top: 306px;
+}
+.Lager_4 {
+    position: absolute;
+    width: 516px;
+    height: 34px;
+    left: 369px;
+    top: 365px;
+}
+button {
+    position: absolute;
+    width: 180px;
+    height: 50px;
+    left: 370px;
+    top: 500px;
+    background: #F7941D;
+    border-radius: 6px;
+    color: white;
+
+}
+.View {
+    position: absolute;
+    width: 1033px;
+    height: 480px;
+    left: 1041px;
+    background: linear-gradient(90deg, #F7941D 0%, #27AAE1 100%);
+}
+
+.nav {
+    display: grid;
+    grid-template-columns: 100% 100% 100%;
+    align-items: center;
+    justify-items: center;
+    position: absolute;
+    width: 350px;
+    height: 130px;
+    left: 370px;
+    top: 670px;
+}
+.Summer {
+    Width: 350px;
+    Height: 130px;
+    Top:670px;
+    Left: 370px;
+    Radius: 20px;
+    background-blend-mode: color-burn;
+    Blend: Pass through;
+    background: linear-gradient(90deg, #F7941D 0%, #27AAE1 100%);
+    border-radius: 20px;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+}
+
+.Sertificat {
+position: absolute;
+width: 513.36px;
+height: 296.36px;
+left: 384px;
+top: 1004px;
+}
+
+.container {
+    position: absolute;
+    /* width: 451px;
+    height: 46px; */
+    left: 983px;
+    top: 1052px;
+}
+

@@ -1,0 +1,152 @@
+body {
+    font-family: "Circe-Light";
+    color: #263057;
+}
+
+.header {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    position: static;
+    left: 15.58%;
+    right: 72.81%;
+    top: 40.71%;
+    bottom: 40.71%;
+
+}
+
+.container {
+    display: grid;
+    justify-content: space-between;
+    width: 1180px;
+    height: 145.32px;
+    margin-left: 100px;
+    margin-top: 0px;
+    margin-right: 100px;
+    grid-template-columns: 13% 12% 12% 11% 15% 17% 17%;
+}
+
+.cell cell-1 {
+    justify-content: center;
+    align-content: center;
+}
+
+button.cabinet {
+    color: white;
+    background: #6984F0;
+    border: 1px solid #6984F0;
+    box-sizing: border-box;
+    border-radius: 30px;
+    Width: 171.67px;
+    Height: 34px;
+    Top: 55.66px;
+    Left: 834.43px;
+    font-family: "Circe-Light";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+
+}
+
+button.Tarif {
+    color: white;
+    background: #6984F0;
+    border: 1px solid #6984F0;
+    box-sizing: border-box;
+    border-radius: 30px;
+    Width: 222px;
+    Height: 47px;
+    Top: 450px;
+    Left: 162px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: center;
+}
+
+button.Pay {
+    background-color: #263057;
+    color: white;
+    box-sizing: border-box;
+    border-radius: 30px;
+    Width: 171.67px;
+    Height: 34px;
+    Top: 55.66px;
+    Left: 834.43px;
+    font-family: "Circe-Light";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+    }
+
+
+
+.Center {
+    position: absolute;
+    width: 1380px;
+    height: 536px;
+    left: 0px;
+    top: 146px;
+    background-color: #263057;
+    /* margin-left: 10%; */
+}
+
+.Center-1 {
+    position: absolute;
+    width: 1180px;
+    height: 450px;
+    margin: 43px 100px 43px 100px ;
+    background: #FFFFFF;
+    box-shadow: 0px 64px 194px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+    }
+
+    .Center-2 {
+        position: absolute;
+        margin: 139px 539px 217px 62px;
+        height: 700, bold;
+    }
+
+    .Internet {
+        font-family: "Circe-Light";
+        font-style: normal;
+        font-weight: 700px;
+        font-size: 62px;
+        line-height: 90%;
+    }
+
+    .nav {
+        position: absolute;
+        width: 484px;
+        height: 62px;
+        left: 448px;
+        top: 733px;
+            }
+
+    h1 {
+        font-family: "Circe-Light";
+        font-style: normal;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 130%;
+        /* or 62px */
+        text-align: center;
+        text-transform: uppercase;  
+    }
+
+.Tariff {
+    position: absolute;
+    width: 1180px;
+    height: 200px;
+    left: 100px;
+    top: 1469px;
+    background: #FFFFFF;
+    box-shadow: 0px 64px 194px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+}
